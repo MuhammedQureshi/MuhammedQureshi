@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **Learning to Build Full-Stack Applications with JavaScript Frameworks, Node.js, and Python**
+- 🌱 I’m currently learning **to Build Full-Stack Applications with JavaScript Frameworks, Node.js, and Python**
 
 - 👯 I’m looking to collaborate on **Audio Version for ChatGPT**
 
