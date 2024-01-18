@@ -1,5 +1,5 @@
 # About Me:
-Hello there! I'm Muhammed, a software engineer with a passion for building applications and websites. Currently, I'm focused on enhancing my skills in Full-Stack development by learning how to use popular JavaScript frameworks like React and Vue.js, and also diving into backend technologies such as Node.js and Python. I'm constantly seeking new challenges and opportunities to improve my craft, and I'm excited to see where this journey takes me
+Hello there! I'm Muhammed, a software engineer with a passion for building applications and websites. Currently, I'm focused on enhancing my skills in Full-Stack development by learning how to use popular JavaScript frameworks like React and Vue.js, and also diving into backend technologies such as Node.js and Python. I'm constantly seeking new challenges and opportunities to improve my craft, and I'm excited to see where this journey takes me.
 
 
 # 💻 Tech Stack:
